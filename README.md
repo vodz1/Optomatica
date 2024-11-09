@@ -1,32 +1,35 @@
-Backend Setup (NestJS)
-The backend is built using NestJS and connects to a MongoDB database. To set up the backend:
 
-git clone https://github.com/vodz1/Optomatica.git
+**Back-End Installation:**
 
-Navigate to the backend directory:
+1. **Clone the back-end repo:**
+   ```
+   git clone https://github.com/vodz1/Optomatica.git
+   ```
+2. **Navigate to the project directory:**
+   ```
+   cd Backend
+   ```
+3. **Install dependencies using npm:**
+   ```
+   npm install
+   ```
+7. **Run the NestJS Backend:**
+   ```
+   npm run start:dev
+   ```
+**Front-End Installation:**
 
-cd backend
+ 2. **Navigate to the project directory:**
+   ```
+   cd Frontend
+   ```
+3. **Install dependencies using npm:**
+   ```
+   npm install
+   ```
+7. **Run the ReactJS Frontend(on PORT 3001):**
+   ```
+   npm start
+   
 
-Install backend dependencies:
-
-npm install
-
-Run the NestJS backend:
-
-npm run start:dev
-
-Frontend Setup (React)
-The frontend is built with React and connects to the NestJS backend. To set up the frontend (run the app on port 3001):
-
-Navigate to the frontend directory:
-
-cd frontend
-
-Install frontend dependencies:
-
-npm install
-
-Run the React development server:
-
-npm start
 
