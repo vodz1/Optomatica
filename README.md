@@ -7,7 +7,7 @@
    ```
 2. **Navigate to the project directory:**
    ```
-   cd Backend
+   cd Backend/book-management-system
    ```
 3. **Install dependencies using npm:**
    ```
@@ -21,7 +21,7 @@
 
  2. **Navigate to the project directory:**
    ```
-   cd Frontend
+   cd Frontend/book-management-system
    ```
 3. **Install dependencies using npm:**
    ```
